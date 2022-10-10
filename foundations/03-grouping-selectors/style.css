@@ -1,0 +1,16 @@
+.lefty
+.righty {
+
+    font-size: 28px;
+    font-family: helvetica, 'Times New Roman', sans-serif;
+}
+
+.lefty {
+    background-color: black;
+    color: white;
+}
+
+.righty {
+    background-color: yellow;
+    color: black;
+}
